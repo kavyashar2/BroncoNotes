@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Bronco Notes",
   description:
-    "A collaborative, feature-rich note-taking app designed specifically for Santa Clara University students to organize, share, and excel in their academic journey",
+    "A collaborative, feature-rich note-taking app designed specifically for Santa Clara University students to organize and share notes to excel in their academic journey",
   icons: {
     icon: [
       {

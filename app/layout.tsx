@@ -6,7 +6,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Bronco Notes",
-  description: "A collaborative, feature-rich note-taking app designed specifically for Santa Clara University students to organize, share, and excel in their academic journey",
+  description:
+    "A collaborative, feature-rich note-taking app designed specifically for Santa Clara University students to organize, share, and excel in their academic journey",
   icons: {
     icon: [
       {
@@ -18,9 +19,9 @@ export const metadata: Metadata = {
         media: "(prefers-color-scheme: dark)",
         url: "/logo-dark.svg",
         href: "/logo-dark.svg",
-      }
-    ]
-  }
+      },
+    ],
+  },
 };
 
 export default function RootLayout({

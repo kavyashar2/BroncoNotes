@@ -20,3 +20,5 @@ Key Features:
 - Landing page
 - Cover image of each document
 - Recover deleted files
+
+Personal project adapted from Fullstack Notion Clone by Antonio Erdeljac
